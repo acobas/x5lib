@@ -20,4 +20,9 @@
  */
 - (void)showAlert2;
 
+/*!
+ Show alert with specific message created on branch.
+ */
+- (void)showAlert3;
+
 @end
