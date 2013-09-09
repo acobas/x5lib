@@ -21,4 +21,14 @@
     [alert show];
 }
 
+- (void)showAlert2
+{
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"X5LMain"
+                                                    message:@"Message #2 from x5lib!"
+                                                   delegate:nil
+                                          cancelButtonTitle:@"Ok"
+                                          otherButtonTitles:nil];
+    [alert show];
+}
+
 @end

@@ -15,4 +15,9 @@
  */
 - (void)showAlert;
 
+/*!
+ Show alert with another specific message.
+ */
+- (void)showAlert2;
+
 @end
