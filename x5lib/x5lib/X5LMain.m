@@ -39,7 +39,7 @@
 
 - (void)showAlert3
 {
-    [self showAlertWithMessage:@"Message from x5Lib! (#3, in master)"];
+    [self showAlertWithMessage:@"Message from x5Lib! (#3)"];
 }
 
 @end
